@@ -11,7 +11,7 @@ Comments Everywhere is a plugin that enables you to insert a comment section whe
 
 == Description ==
 
-Comments Everywhere is a plugin that enables you to insert a comment section where you want by using a shortcode when normally comments are only possible for posts and pages. This enables you to implememt comments in a custom template or a particular pag. You can also use it when you want to modify the template. More information can be found on our website: <a href="http://www.snippetz.nl/plugin-comments-everywhere/" title="Comments Everywhere">Comments Everywhere Website</a>.
+Comments Everywhere is a plugin that enables you to insert a comment section where you want by using a shortcode when normally comments are only possible for posts and pages. This enables you to implememt comments in a custom template or a particular page. You can also use it when you want to modify the template. More information can be found on our website: <a href="http://www.snippetz.nl/plugin-comments-everywhere/" title="Comments Everywhere">Comments Everywhere Website</a>.
 
 == Installation ==
 
