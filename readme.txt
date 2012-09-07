@@ -55,5 +55,3 @@ Ordered list:
 
 1. Comments where you want.
 2. Modify the comment template / comment form.
-
-`<?php code(); // goes in backticks ?>`
